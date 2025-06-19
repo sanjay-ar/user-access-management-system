@@ -63,12 +63,13 @@ db.password=your_password
 ## Quick Links
 - 📹 [Project Demo Video](https://drive.google.com/file/d/1r0LseGcTFgqfteqt5m9bcJzacuovqDu6/view?usp=sharing)
 
-## Contributing
-Feel free to fork this project and submit pull requests.
+---
 
-## Developer Contact Information
-- **Name:** Sanjay A R
-- **Email:** sanjay2003ar@gmail.com
+### 🚀 Maintained by [Sanjay A R](https://github.com/sanjay-ar)
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://portfolio-ar.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20A%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-ar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay--ar-black?style=flat-square&logo=github)](https://github.com/sanjay-ar)
+
+> 💡 *Like this project? Leave a ⭐ and connect with me!*
+
